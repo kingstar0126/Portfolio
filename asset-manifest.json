@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.de770f5e.css",
-    "main.js": "/Portfolio/static/js/main.dd4c9ab6.js",
+    "main.js": "/Portfolio/static/js/main.1f265132.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/codeEditor.png": "/Portfolio/static/media/codeEditor.971ff8e467bb409505bb.png",
     "static/media/blog.png": "/Portfolio/static/media/blog.561e39fc679b55689047.png",
     "static/media/suicide.png": "/Portfolio/static/media/suicide.281c68bc202d2ee3d218.png",
-    "static/media/Henry_Jones-BIT_MESRA.pdf": "/Portfolio/static/media/Henry_Jones-BIT_MESRA.1ebc6856d0d317314690.pdf",
+    "static/media/Henry_Jones-BIT_MESRA.pdf": "/Portfolio/static/media/Henry_Jones-BIT_MESRA.d0e29fdf57b41b547782.pdf",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/Portfolio/static/media/chatify.e1e3065cd2d5ea478e65.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio/index.html",
     "main.de770f5e.css.map": "/Portfolio/static/css/main.de770f5e.css.map",
-    "main.dd4c9ab6.js.map": "/Portfolio/static/js/main.dd4c9ab6.js.map",
+    "main.1f265132.js.map": "/Portfolio/static/js/main.1f265132.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de770f5e.css",
-    "static/js/main.dd4c9ab6.js"
+    "static/js/main.1f265132.js"
   ]
 }
